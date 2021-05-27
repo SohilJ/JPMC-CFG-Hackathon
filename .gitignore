@@ -1,1 +1,3 @@
 backend/db_params.ini
+.DS_Store
+package-lock.json
