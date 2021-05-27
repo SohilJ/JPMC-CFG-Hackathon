@@ -1,0 +1,96 @@
+.registerContainer
+{
+    margin: auto;
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 700px;
+    padding: 1em;
+    box-shadow: 0 2px 2px rgba(0,0,0,0.2);
+
+}
+
+#personal
+{
+    margin-top: 20px;
+}
+
+#firstName
+{
+    display: inline-block;
+    padding: 0px;
+    width: 60%;
+    margin-left: 20px;
+}
+
+#lastName
+{
+    display: inline-block;
+    padding: 0px;
+    width: 60%;
+    margin-left: 20px;
+}
+
+#dateOfBirth
+{
+    display: inline-block;
+    padding: 0px;
+    width: 60%;
+    margin-left: 25px;
+}
+
+.RegisterFormContainer
+{
+    height: 680px;
+}
+
+.register{
+    margin-top: 0.5em;
+    color: black;
+}
+
+.register:hover
+{
+    color: #0A60F5;
+}
+ 
+.registerContainer h1
+{
+    font-size: 1.4em;
+}
+
+.registerForm
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.registerForm input
+{
+    max-width: 300px;
+    margin-bottom: 2em;
+    padding: 0.5em;
+    box-sizing: border-box;
+}
+
+
+.registerForm button
+{
+    background: #007BFF;
+    border: none;
+    color: white;
+    padding: 1em;
+    max-width: 300px;
+}
+
+
+.register
+{
+    margin-top: 0.5em;
+    color: black;
+}
+
+.register:hover{
+    color: #0A60F5;
+}
